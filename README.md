@@ -1,11 +1,5 @@
 ### Olá me chamo welintoc3 👋
 
-
-
-###
-
-
-
 ###
 
 <div align="center">
