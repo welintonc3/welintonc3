@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm from Rio de Janeiro Brasil<br><br>- 🔭 I’m working as data science ...<br>- 📚 I'm currently learning data science ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I am a technology student with a focus on data science. of Rio de Janeiro Brasil<br><br>- 🔭 I’m working as data science ...<br>- 📚 I'm currently learning data science ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
