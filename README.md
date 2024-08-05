@@ -1,6 +1,9 @@
-<div align="center">
-Hello!, my name is welintonc3. I am a student of Data Science and Information Technology. 👋
+<div align="center" style="font-size: 8px;">
+  Hello!, my name is welintonc3. I am a student of Data Science and Information Technology. 👋
 </div>
+<hr>
+
+
 
 ###
 
