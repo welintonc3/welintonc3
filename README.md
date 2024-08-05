@@ -1,9 +1,11 @@
-### Olá me chamo welintoc3 👋
+<div align="center">
+Hello!, my name is welintonc3. I am a student of Data Science and Information Technology. 👋
+</div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome Image" />
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome Image" />
 </div>
 
 ###
