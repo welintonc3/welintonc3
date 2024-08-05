@@ -1,4 +1,5 @@
-<h1 align="center">hey there 👋</h1> 
+<h1 align="center">hey there 👋</h1>
+<div style="font-size: 30px;">
   oii!, My name is welintonc3. I am a student of Data Science and Information Technology. 
 </div>
 
