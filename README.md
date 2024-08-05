@@ -1,6 +1,6 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> oii!👋, "My name is Welintonc3, and I am a graduate in Information Technology with a focus on Data Science.". </h1>
 <div style="font-size: 30px;">
-  oii!, My name is welintonc3. I am a student of Data Science and Information Technology. 
+  "Today focused on data science, seeking knowledge to better contribute with insights." 
 </div>
 
 
